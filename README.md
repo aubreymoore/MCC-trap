@@ -9,7 +9,7 @@ https://www.mdpi.com/1424-8220/21/2/343
 
 ## Notes by Aubrey Moore
 * 2021-10-21 Cloned this repo from https://github.com/kimbjerge/MCC-trap
-* 2021-10-21 Added libraries to my Conda env so that I can use code in Jupyter lab Reference: https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
+* 2021-10-21 Added libraries to my Conda env so that I can use code in Jupyter lab. Reference: https://medium.com/@nrk25693/how-to-add-your-conda-environment-to-your-jupyter-notebook-in-just-4-steps-abeab8b8d084
 
 ## How do I get started? ##
 #### Dependencies ####
