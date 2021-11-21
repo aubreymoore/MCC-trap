@@ -17,7 +17,7 @@ from idac.classifier.classifier_factory import ClassifierFactory
 from idac.stats.stats import Stats
 from PyQt5.QtGui import QImage
        
-def run(dirName):
+def run(dirName):cd 
     config_filename = '../config/MCC_config.json'
     conf = readconfig(config_filename)
     conf['datareader']['datapath'] += '/' + dirName

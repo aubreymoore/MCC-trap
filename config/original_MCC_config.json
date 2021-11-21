@@ -1,6 +1,6 @@
 {
    "datareader": {
-      "datapath": "../data/sticky",
+      "datapath": "../data",
       "maxim": -1
    },
 
@@ -41,7 +41,7 @@
       "minarea": 12000,
       "maxarea": 250000,
       "backgroundpath": "../config/sample_background.jpg",
-      "usebackground": false
+      "usebackground": true
    },
 
    "imagemod":{
