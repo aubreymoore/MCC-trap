@@ -1,4 +1,10 @@
 {
+   "comments":{
+      "comment1":"Changed datareader|datapath to ../data/sticky",
+      "comment2":"Changed blobdetector|usebackground to false",
+      "comment3":"Changed blobdetector|minarea from 12000 to 100",
+      "comment4":"Changed moviemaker|writeimages from flase to true"
+   },    
    "datareader": {
       "datapath": "../data/sticky",
       "maxim": -1
@@ -38,7 +44,7 @@
          "kernel": 7,
          "thresh": 5
       },           
-      "minarea": 12000,
+      "minarea": 100,
       "maxarea": 250000,
       "backgroundpath": "../config/sample_background.jpg",
       "usebackground": false
@@ -59,7 +65,7 @@
       "maxframes": -1,
       "maximages": -1,
       "resultdir": "../results",
-      "writeimages": false,
+      "writeimages": true,
       "writemovie": true,
       "moviesize": false,
       "fps":5
